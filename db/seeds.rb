@@ -6,9 +6,6 @@
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
 Book.create!([
-  {title: "Cats and their personalities"},
-  {title: "The many species of cats"},
-  {title: "Dogs and cats"},
-  {title: "Arts and crafts"},
-  {title: "Vietnamese cookbook"}
+  {title: "this is prod"},
+  {title: "dont know what to put here"}
 ])
